@@ -1,0 +1,15 @@
+Advantages of using logistic regression
+
+    Logistic regression is easier to implement, interpret, and very efficient to train.
+    It not only provides a measure of how appropriate a predictor(coefficient size)is, but also its direction of association (positive or negative).
+    Good accuracy for many simple data sets and it performs well when the dataset is linearly separable.
+    Logistic regression is less inclined to over-fitting but it can overfit in high dimensional datasets.
+    The training time of logistic regression algorithm comes out to be far less than most complex algorithms, such as an Artificial Neural Network.
+
+Disadvantages of using logistic regression
+
+    If the number of observations is lesser than the number of features, Logistic Regression should not be used, otherwise, it may lead to overfitting.
+    Logistic Regression requires average or no multicollinearity between independent variables.
+    It is tough to obtain complex relationships using logistic regression. More powerful and compact algorithms such as Neural Networks can easily outperform this algorithm.
+    In Linear Regression independent and dependent variables are related linearly. But Logistic Regression needs that independent variables are linearly related to the log odds (log(p/(1-p)).
+
